@@ -330,3 +330,4 @@ All bonus points will be added to your assignment 4 grades.
 3. Third place:     10 bonus points
 4. Everyone else who achieves an accuracy of more than a
    threshold to be determined when the challenge is finalized: 7 bonus points
+"# randomforest" 
